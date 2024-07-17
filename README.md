@@ -5,7 +5,6 @@
 - 🌱 Sound Knowledge in Data Structures and Algorithms.
 - 👋  Languages - C,C++,Python,SQL.
 - 📫 How to reach me: Contact me at eshwarrachakonda02@gmail.com
-- 😄 Pronouns: He/him.
 
 
 
