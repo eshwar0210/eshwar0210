@@ -1,4 +1,4 @@
-### Hello 👋. This is Eshwar Rachakonda
+### Hello 👋.
 
 - Frequently involved in Competitive Programming contests.
 - Sound Knowledge in Data Structures and Algorithms.
